@@ -94,7 +94,7 @@ Set up professional profiles on three platforms:
 |----------|-------------|
 | **GitHub** | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
 | **LinkedIn** | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| **Kaggle** | [kaggle.com/rajsingh1661](https://kaggle.com/rajsingh16618) |
+| **Kaggle** | [kaggle.com/rajsingh16618](https://kaggle.com/rajsingh16618) |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
 
@@ -113,7 +113,7 @@ Set up professional profiles on three platforms:
 - Received **5 real responses** from batchmates
 
 > 🔗 **Google Form Link:**
-> https://docs.google.com/forms/d/e/1FAIpQLSeuTg1mPZakp-Pe1jl5IITY6i-mGSXgLpReq4ya9UsSGcRE-A/viewform
+> https://docs.google.com/forms/d/e/1FAIpQLSdE4ahauJNVBuoS2IQ4EnjP-_9q_owMqxhffdXpH1iEqRyshg/viewform?usp=publish-editor
 
 ---
 
@@ -149,7 +149,7 @@ Set up professional profiles on three platforms:
 |----------|------|
 | GitHub | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
 | LinkedIn | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| Kaggle | [kaggle.com/rajsingh20](https://kaggle.com/rajsingh20) |
+| Kaggle | [kaggle.com/rajsingh16618](https://kaggle.com/rajsingh16618) |
 | Email | raj.25bai10997@vitbhopal.ac.in |
 
 ---
