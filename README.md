@@ -92,8 +92,8 @@ Set up professional profiles on three platforms:
 
 | Platform | Profile Link |
 |----------|-------------|
-| **GitHub** | [github.com/ankit-kr6](https://github.com/rajsingh-20) |
-| **LinkedIn** | [linkedin.com/in/ankit-kumar-mandal-78b66436b](https://www.linkedin.com/in/rajsingh34329369) |
+| **GitHub** | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
+| **LinkedIn** | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
 | **Kaggle** | [kaggle.com/ankitkr6](https://kaggle.com/ankitkr6) |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
@@ -150,7 +150,7 @@ Set up professional profiles on three platforms:
 | GitHub | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
 | LinkedIn | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
 | Kaggle | [kaggle.com/ankitkr6](https://kaggle.com/ankitkr6) |
-| Email | ankitkumarmandal2006@gmail.com |
+| Email | raj.25bai10997@vitbhopal.ac.in |
 
 ---
 
