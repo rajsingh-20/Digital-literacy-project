@@ -15,7 +15,7 @@
 | **Course Title** | Digital Literacy |
 | **Credits** | 1 Credit – Pass/Fail (Non-CGPA) |
 | **University** | VIT Bhopal University |
-| **Submission Date** | 29th March 2026 |
+| **Submission Date** | 30th March 2026 |
 
 ---
 
@@ -94,7 +94,7 @@ Set up professional profiles on three platforms:
 |----------|-------------|
 | **GitHub** | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
 | **LinkedIn** | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| **Kaggle** | [kaggle.com/ankitkr6](https://kaggle.com/ankitkr6) |
+| **Kaggle** | [kaggle.com/rajsingh1661](https://kaggle.com/rajsingh16618) |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
 
@@ -149,7 +149,7 @@ Set up professional profiles on three platforms:
 |----------|------|
 | GitHub | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
 | LinkedIn | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
-| Kaggle | [kaggle.com/ankitkr6](https://kaggle.com/ankitkr6) |
+| Kaggle | [kaggle.com/rajsingh20](https://kaggle.com/rajsingh20) |
 | Email | raj.25bai10997@vitbhopal.ac.in |
 
 ---
