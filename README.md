@@ -7,15 +7,15 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Ankit Kumar Mandal |
-| **Registration No.** | 25BAI10217 |
+| **Name** | Raj Singh |
+| **Registration No.** | 25BAI10997 |
 | **Branch** | CSE (AI & ML) |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
 | **Credits** | 1 Credit – Pass/Fail (Non-CGPA) |
 | **University** | VIT Bhopal University |
-| **Submission Date** | 28th March 2026 |
+| **Submission Date** | 29th March 2026 |
 
 ---
 
@@ -92,8 +92,8 @@ Set up professional profiles on three platforms:
 
 | Platform | Profile Link |
 |----------|-------------|
-| **GitHub** | [github.com/ankit-kr6](https://github.com/ankit-kr6) |
-| **LinkedIn** | [linkedin.com/in/ankit-kumar-mandal-78b66436b](https://linkedin.com/in/ankit-kumar-mandal-78b66436b) |
+| **GitHub** | [github.com/ankit-kr6](https://github.com/rajsingh-20) |
+| **LinkedIn** | [linkedin.com/in/ankit-kumar-mandal-78b66436b](https://www.linkedin.com/in/rajsingh34329369) |
 | **Kaggle** | [kaggle.com/ankitkr6](https://kaggle.com/ankitkr6) |
 
 - Screenshots of all three profiles are in `task-2-portfolio/`
@@ -147,8 +147,8 @@ Set up professional profiles on three platforms:
 
 | Platform | Link |
 |----------|------|
-| GitHub | [github.com/ankit-kr6](https://github.com/ankit-kr6) |
-| LinkedIn | [linkedin.com/in/ankit-kumar-mandal-78b66436b](https://linkedin.com/in/ankit-kumar-mandal-78b66436b) |
+| GitHub | [github.com/rajsingh-20](https://github.com/rajsingh-20) |
+| LinkedIn | [linkedin.com/in/rajsingh34329369](https://www.linkedin.com/in/rajsingh34329369) |
 | Kaggle | [kaggle.com/ankitkr6](https://kaggle.com/ankitkr6) |
 | Email | ankitkumarmandal2006@gmail.com |
 
