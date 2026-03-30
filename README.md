@@ -15,7 +15,7 @@
 | **Course Title** | Digital Literacy |
 | **Credits** | 1 Credit – Pass/Fail (Non-CGPA) |
 | **University** | VIT Bhopal University |
-| **Submission Date** | 30th March 2026 |
+| **Submission Date** | 31st March 2026 |
 
 ---
 
