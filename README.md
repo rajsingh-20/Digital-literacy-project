@@ -56,7 +56,7 @@ digital-literacy-project/
 ├── task-3-platforms/
 │   ├── description.txt                ← Platform overview and reflection
 │   ├── hackerrank/
-│   │   ├── hackerrank-problem.png     ← Problem page screenshot
+│   │   └── hackerrank-problem.png     ← Problem page screenshot
 │   │   
 │   └── google-form/
 │       ├── google-form-quiz.pdf      ← Form page screenshot
