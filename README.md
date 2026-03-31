@@ -44,36 +44,32 @@ digital-literacy-project/
 │   └── Project_Report.pdf             ← Full written project report
 │
 ├── task-1-presentation/
-│   ├── description.txt                ← Tool used and reflection
+│   ├── description.txt                  ← Tool used and reflection
 │   └── digital-literacy-infographic.pdf ← Canva infographic
 │
 ├── task-2-portfolio/
 │   ├── description.txt                ← Platforms and future plans
-│   ├── github-profile.png             ← GitHub profile screenshot
-│   ├── linkedin-profile.png           ← LinkedIn profile screenshot
-│   └── kaggle-profile.png             ← Kaggle profile screenshot
+│   ├── github-profile.pdf             ← GitHub profile screenshot
+│   ├── linkedin-profile.pdf           ← LinkedIn profile screenshot
+│   └── kaggle-profile.pdf             ← Kaggle profile screenshot
 │
 ├── task-3-platforms/
 │   ├── description.txt                ← Platform overview and reflection
 │   ├── hackerrank/
-│   │   ├── hackerrank-problem.png         ← Problem page screenshot
-│   │   └── hackerrank-congratulations.png ← Success screenshot
+│   │   ├── hackerrank-problem.png     ← Problem page screenshot
+│   │   
 │   └── google-form/
-│       ├── google-form-page1.png      ← Form page 1 screenshot
-│       ├── google-form-page2.png      ← Form page 2 screenshot
-│       ├── google-form-page3.png      ← Form page 3 screenshot
-│       ├── google-form-responses.png  ← Response sheet screenshot
+│       ├── google-form-page1.pdf      ← Form page screenshot
+│       ├── google-form-responses.pdf  ← Response sheet screenshot
 │       └── google-form-link.txt       ← Form link
 │
 ├── task-4-email-etiquette/
-│   ├── emails.txt                     ← Email drafts (text version)
-│   ├── professional-emails.pdf        ← Professional email drafts (PDF)
-│   └── social-media-checklist.md      ← Social media Do's and Don'ts
+│   ├── email-drafts.pdf                ← Professional email drafts (PDF)
+│   └── social-media-checklist.pdf      ← Social media Do's and Don'ts
 │
 └── task-5-cybercrime/
-    ├── casestudy.md                   ← Phishing case study (markdown)
-    ├── casestudy.pdf                  ← Phishing case study (PDF)
-    └── prevention-checklist.md        ← Stay Safe Online checklist
+    ├── casestudy.pdf                   ← Phishing case study (PDF)
+    └── prevention-checklist.pdf        ← Stay Safe Online checklist
 ```
 
 ---
@@ -108,8 +104,8 @@ Set up professional profiles on three platforms:
 
 **Part B – Google Form Quiz:**
 - Created **Digital Literacy Awareness Quiz** with 5 questions across 2 sections
-- Section 1: Digital Literacy Basics (Q1, Q2 – Multiple Choice)
-- Section 2: Collaboration & Safety (Q3, Q4, Q5 – Short Answer + MCQ)
+- Section 1: Digital Literacy Basics (Q1, Q2, Q3, Q4 – Multiple Choice)
+- Section 2: Collaboration & Safety (Q5 – Short Answer)
 - Received **5 real responses** from batchmates
 
 > 🔗 **Google Form Link:**
@@ -125,7 +121,7 @@ Set up professional profiles on three platforms:
 
 **Part B – Social Media Checklist:**
 - 5 Do's and 5 Don'ts for responsible social media use as a college student
-- File: `task-4-email-etiquette/social-media-checklist.md`
+- File: `task-4-email-etiquette/social-media-checklist.pdf`
 
 ---
 
@@ -139,7 +135,7 @@ Set up professional profiles on three platforms:
 **Part B – Prevention Checklist:**
 - 10 actionable prevention tips including 2 UPI-specific safety tips
 - Reporting channel: **cybercrime.gov.in** | Helpline: **1930** (24x7)
-- File: `task-5-cybercrime/prevention-checklist.md`
+- File: `task-5-cybercrime/prevention-checklist.pdf`
 
 ---
 
