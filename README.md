@@ -44,30 +44,34 @@ digital-literacy-project/
 │   └── Project_Report.pdf             ← Full written project report
 │
 ├── task-1-presentation/
-│   ├── description.txt                  ← Tool used and reflection
+│   ├── Project_Report_1.pdf                  ← Tool used and reflection
 │   └── digital-literacy-infographic.pdf ← Canva infographic
 │
 ├── task-2-portfolio/
-│   ├── description.txt                ← Platforms and future plans
+│   ├── Project_Report_2.pdf                ← Platforms and future plans
 │   ├── github-profile.pdf             ← GitHub profile screenshot
 │   ├── linkedin-profile.pdf           ← LinkedIn profile screenshot
 │   └── kaggle-profile.pdf             ← Kaggle profile screenshot
 │
 ├── task-3-platforms/
-│   ├── description.txt                ← Platform overview and reflection
+│   ├──Project_Report_3.pdf                ← Platform overview and reflection
 │   ├── hackerrank/
 │   │   └── hackerrank-problem.png     ← Problem page screenshot
 │   │   
 │   └── google-form/
-│       ├── google-form-quiz.pdf      ← Form page screenshot
+│       ├── Project_Report_3.pdf
+│       ├── google-form-analytics.pdf  ← Google form response analysis
+│       ├── google-form-quiz.pdf       ← Form page screenshot
 │       ├── google-form-responses.pdf  ← Response sheet screenshot
 │       └── google-form-link.txt       ← Form link
 │
 ├── task-4-email-etiquette/
+│   ├── Project_Report_4.pdf
 │   ├── email-drafts.pdf                ← Professional email drafts (PDF)
 │   └── social-media-checklist.pdf      ← Social media Do's and Don'ts
 │
 └── task-5-cybercrime/
+    ├── Project_Report_5.pdf
     ├── casestudy.pdf                   ← Phishing case study (PDF)
     └── prevention-checklist.pdf        ← Stay Safe Online checklist
 ```
