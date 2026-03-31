@@ -4,8 +4,8 @@ Form Link:
 https://docs.google.com/forms/d/e/1FAIpQLSdE4ahauJNVBuoS2IQ4EnjP-_9q_owMqxhffdXpH1iEqRyshg/viewform?usp=publish-editor
 
 Form contains 5 questions:
-- Q1: Multiple Choice - What does Digital Literacy mean?
-- Q2: Multiple Choice - Sign of a phishing email?
-- Q3: Short Answer - Online collaboration tool
-- Q4: Multiple Choice - Strong password
-- Q5: Short Answer - Response to suspicious email
+- Q1: Multiple Choice
+- Q2: Multiple Choice
+- Q3: Multiple Choice
+- Q4: Multiple Choice
+- Q5: Short Answer
