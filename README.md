@@ -59,7 +59,7 @@ digital-literacy-project/
 │   │   ├── hackerrank-problem.png     ← Problem page screenshot
 │   │   
 │   └── google-form/
-│       ├── google-form-page1.pdf      ← Form page screenshot
+│       ├── google-form-quiz.pdf      ← Form page screenshot
 │       ├── google-form-responses.pdf  ← Response sheet screenshot
 │       └── google-form-link.txt       ← Form link
 │
